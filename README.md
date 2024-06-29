@@ -40,9 +40,9 @@ Burger's Masters/
             <p>To set up the project locally, follow these steps:</p>
             <ol>
                 <li><strong>Clone the repository</strong>:
-                <pre><code>git clone https://github.com/yourusername/BurgersMasters.git</code></pre></li>
+                <pre><code>git clone https://github.com/Victor-Jimenez-Morales/Burger-s-Masters.git</code></pre></li>
                 <li><strong>Navigate to the project directory</strong>:
-                <pre><code>cd BurgersMasters</code></pre></li>
+                <pre><code>cd Burger-s-Masters</code></pre></li>
                 <li><strong>Open the <code>index.html</code> file in your web browser</strong> to view the website.</li>
             </ol>
             <h2 id="usage">Usage</h2>
