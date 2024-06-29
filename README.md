@@ -4,7 +4,7 @@
     <header>
         <div>
             <h1>Burger's Masters - README</h1>
-            <button><a href="https://victor-jimenez-morales.github.io/Burger-s-Masters/"></a></button>
+            <button><a href="https://victor-jimenez-morales.github.io/Burger-s-Masters/">Visit page here!</a></button>
         </div>
     </header>
     <div>
