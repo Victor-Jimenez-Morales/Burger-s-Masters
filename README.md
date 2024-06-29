@@ -16,7 +16,6 @@
                 <li><a href="#installation">Installation</a></li>
                 <li><a href="#usage">Usage</a></li>
                 <li><a href="#contributing">Contributing</a></li>
-                <li><a href="#license">License</a></li>
             </ul>
             <h2 id="project-overview">Project Overview</h2>
             <p>Burger's Masters is a web-based project aimed at showcasing a burger restaurant's menu, locations, and contact information. It includes various HTML pages for different sections of the website, such as the home page, about us, menu, and contact page. The project uses CSS and JavaScript for styling and interactivity.</p>
