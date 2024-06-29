@@ -1,4 +1,5 @@
-Burger's Masters
+<h1>Burger's Masters</h1>
+
 Table of Contents
 Project Overview
 Directory Structure
