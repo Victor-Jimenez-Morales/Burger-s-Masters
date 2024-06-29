@@ -1,20 +1,26 @@
-<h1>Burger's Masters</h1>
-
-Table of Contents
-Project Overview
-Directory Structure
-Installation
-Usage
-Contributing
-License
-Project Overview
-Burger's Masters is a web-based project aimed at showcasing a burger restaurant's menu, locations, and contact information. It includes various HTML pages for different sections of the website, such as the home page, about us, menu, and contact page. The project uses CSS and JavaScript for styling and interactivity.
-
-Directory Structure
-The project directory is organized as follows:
-
-graphql
-Copiar código
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <header>
+        <div>
+            <h1>Burger's Masters - README</h1>
+        </div>
+    </header>
+    <div>
+        <div>
+            <h2>Table of Contents</h2>
+            <ul>
+                <li><a href="#project-overview">Project Overview</a></li>
+                <li><a href="#directory-structure">Directory Structure</a></li>
+                <li><a href="#installation">Installation</a></li>
+                <li><a href="#usage">Usage</a></li>
+                <li><a href="#contributing">Contributing</a></li>
+                <li><a href="#license">License</a></li>
+            </ul>
+            <h2 id="project-overview">Project Overview</h2>
+            <p>Burger's Masters is a web-based project aimed at showcasing a burger restaurant's menu, locations, and contact information. It includes various HTML pages for different sections of the website, such as the home page, about us, menu, and contact page. The project uses CSS and JavaScript for styling and interactivity.</p>
+            <h2 id="directory-structure">Directory Structure</h2>
+            <pre>
 Burger's Masters/
 │
 ├── .git/                 # Git version control directory
@@ -29,35 +35,38 @@ Burger's Masters/
 ├── js/                   # Directory for JavaScript files
 │   └── script.js         # Main JavaScript file
 └── restaurantes.html     # Restaurants page
-Installation
-To set up the project locally, follow these steps:
-
-Clone the repository:
-
-sh
-Copiar código
-git clone https://github.com/Victor-Jimenez-Morales/Burger-s-Masters.git
-Navigate to the project directory:
-
-sh
-Copiar código
-cd Burger-s-Masters
-Open the index.html file in your web browser to view the website.
-
-Usage
-Home Page: The landing page of the website with an overview of the restaurant.
-About Us Page: Provides information about the restaurant's history and values.
-Menu Page: Displays the different types of burgers and other menu items offered by the restaurant.
-Contact Page: Contains a form to contact the restaurant and their contact details.
-Restaurants Page: Lists the different locations of the restaurant.
-Contributing
-Contributions are welcome! Please follow these steps to contribute:
-
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes.
-Commit your changes (git commit -m 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Open a Pull Request.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+            </pre>
+            <h2 id="installation">Installation</h2>
+            <p>To set up the project locally, follow these steps:</p>
+            <ol>
+                <li><strong>Clone the repository</strong>:
+                <pre><code>git clone https://github.com/yourusername/BurgersMasters.git</code></pre></li>
+                <li><strong>Navigate to the project directory</strong>:
+                <pre><code>cd BurgersMasters</code></pre></li>
+                <li><strong>Open the <code>index.html</code> file in your web browser</strong> to view the website.</li>
+            </ol>
+            <h2 id="usage">Usage</h2>
+            <ul>
+                <li><strong>Home Page</strong>: The landing page of the website with an overview of the restaurant.</li>
+                <li><strong>About Us Page</strong>: Provides information about the restaurant's history and values.</li>
+                <li><strong>Menu Page</strong>: Displays the different types of burgers and other menu items offered by the restaurant.</li>
+                <li><strong>Contact Page</strong>: Contains a form to contact the restaurant and their contact details.</li>
+                <li><strong>Restaurants Page</strong>: Lists the different locations of the restaurant.</li>
+            </ul>
+            <h2 id="contributing">Contributing</h2>
+            <p>Contributions are welcome! Please follow these steps to contribute:</p>
+            <ol>
+                <li>Fork the repository.</li>
+                <li>Create a new branch (<code>git checkout -b feature-branch</code>).</li>
+                <li>Make your changes.</li>
+                <li>Commit your changes (<code>git commit -m 'Add new feature'</code>).</li>
+                <li>Push to the branch (<code>git push origin feature-branch</code>).</li>
+                <li>Open a Pull Request.</li>
+            </ol>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Burger's Masters Victor Jimenez</p>
+    </footer>
+</body>
+</html>
