@@ -66,7 +66,7 @@ Burger's Masters/
         </div>
     </div>
     <footer>
-        <p>&copy; 2024 Burger's Masters Victor Jimenez</p>
+        <p>Feel free to reach out with any questions or feedback. Enjoy Burger's Masters!</p>
     </footer>
 </body>
 </html>
