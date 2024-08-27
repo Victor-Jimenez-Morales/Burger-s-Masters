@@ -4,7 +4,7 @@
     <header>
         <div>
             <h1>Burger's Masters - README</h1>
-            <a href="https://victor-jimenez-morales.github.io/Burger-s-Masters/" target="_blank">Visit page here!</a>
+            <a href="https://blanchedalmond-swallow-454649.hostingersite.com/" target="_blank">Visit page here!</a>
         </div>
     </header>
     <div>
